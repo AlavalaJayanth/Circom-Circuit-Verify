@@ -3,7 +3,7 @@
 An overview of a unique zero-knowledge circuit built with the Circom programming language is given here. The circuit illustrates how to make logic gates and how to connect them to make a custom computation. The resulting circuit preserves the privacy of the input data and can be used to produce zero-knowledge proofs for certain computations.
 
 ### Contract Address
-> [0x41870682B9F26a22B213d4C682cFbC7B65CB4e44](https://mumbai.polygonscan.com/address/0x41870682b9f26a22b213d4c682cfbc7b65cb4e44)
+> [0x20a31686f84Fc9Da04175d7474a68Be0Ff9a699D](https://mumbai.polygonscan.com/address/0x20a31686f84Fc9Da04175d7474a68Be0Ff9a699D)
 
 ## Quick Start
 Compile the Multiplier2() circuit and verify it against a smart contract verifier
